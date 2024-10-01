@@ -1,7 +1,7 @@
 ### Hi, I'm Sadie 👋
  - Pronouns: she/her
  - ⚡ I am student at Chaminade University
- - 🌱 I'm a data science major, anthropology and business administration minor 
+ - 🌱 I'm a Business Administration major and Data Science minor
  - 📍 Location: Honolulu, Hawaii 
 
 <!--
