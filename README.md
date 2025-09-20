@@ -1,8 +1,9 @@
 ### Hi, I'm Sadie 👋
  - Pronouns: she/her
  - ⚡ I am student at Chaminade University
- - 🌱 I'm a Business Administration major and Data Science minor
- - 📍 Location: Honolulu, Hawaii 
+ - 🌱 I'm a Data Science major and a Business minor
+ - 📍 Location: Honolulu, Hawaii
+ - 🌬️ I love to travel and see the world!
 
 <!--
 **SadiePiianaia/SadiePiianaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
