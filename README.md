@@ -1,7 +1,6 @@
 ### Hi, I'm Sadie 👋
  - Pronouns: she/her
- - 🔭 I am student at Chaminade University
- - 🌱 I'm a Data Science major
+ - 🔭 I am Data Science student at Chaminade University
  - 📍 Location: Oahu, Hawaii
  - 🌬️ I love to see the world!
 
